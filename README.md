@@ -58,9 +58,9 @@ Status.
 7º Bloco -> Declarando a função "mostrarRegsitro()", que:
 Executa um loop infinito (while True);
 Exibe opções para o usuário:
-"Iniciar sessão
-Encerrar sessão
-Ver registros
+"Iniciar sessão,
+Encerrar sessão,
+Ver registros,
 Sair";
 Captura a escolha do usuário;
 Executa a função correspondente.
@@ -72,8 +72,8 @@ Usuário inicia uma sessão;
 O sistema registra o tempo;
 Usuário encerra a sessão;
 O sistema:
-calcula duração
-calcula energia
+calcula duração,
+calcula energia,
 calcula valor;
 Os dados são armazenados para consulta futura.
 
